@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastkp&label=Profile%20views&color=0e75b6&style=flat" alt="beastkp" /> </p>
 
-- 🔭 I’m currently working on [Full-Stack Development and Image Processing](https://github.com/beastkp/beastkp)
+- 🔭 I’m currently working on Full-Stack Development and Image Processing
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 👯 I’m looking to collaborate on [Web Development and openCV](https://github.com/beastkp/beastkp)
+- 👯 I’m looking to collaborate on Web Development and openCV
 
-- 🤝 Help in any domain is appreciated… [https://github.com/beastkp/beastkp](https://github.com/beastkp/beastkp)
+- 🤝 Help in any domain is appreciated… https://github.com/beastkp/beastkp
 
-- 👨‍💻 All of my projects are available at [https://github.com/beastkp](https://github.com/beastkp)
+- 👨‍💻 All of my projects are available at [https://github.com/beastkp]
 
 - 💬 Ask me about **React, React-Native, Node and ROS**
 
