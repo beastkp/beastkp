@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Krish Panchal
 
-<!--
-**beastkp/beastkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack Development and Image Processing <br>👯 I’m looking to collaborate on Web Development and openCV<br>🤝 Help in any domain is appreciated...<br>🌱 I’m currently learning Computer Vision and Image Processing<br>💬 Ask me about React, React-Native, Node and ROS<br>⚡ Fun fact - part time ROS learner!<br>
 
