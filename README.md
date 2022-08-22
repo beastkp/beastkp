@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish Panchal</h1>
 <h3 align="center">A passionate MERN Developer and AI Enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beastkp&label=Profile%20views&color=0e75b6&style=flat" alt="beastkp" /> </p>
+[![](https://visitcount.itsvg.in/api?id=beastkp&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack Development and Image Processing <br>👯 I’m looking to collaborate on Web Development and openCV<br>🤝 Help in any domain is appreciated...<br>🌱 I’m currently learning Computer Vision and Image Processing<br>💬 Ask me about React, React-Native, Node and ROS<br>⚡ Fun fact - part time ROS learner!<br>
@@ -19,5 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=beastkp&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beastkp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beastkp&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+
 
 
