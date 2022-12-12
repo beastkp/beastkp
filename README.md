@@ -17,7 +17,7 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,cmake,css,docker,ros,express,firebase,git,github,html,js,linux,mongodb,mysql,netlify,nodejs,pug,py)](https://skillicons.dev) -->
 
 <p align="left"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cmake,css,docker,ros,express,firebase,git,github,html,js,linux,mongodb,mysql,netlify,nodejs,pug,py" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cmake,css,docker,ros,express,firebase,git,github,html,js,java,linux,powershell,mongodb,mysql,netlify,nodejs,pug,py,androidstudio,arduino" />
     </a> </p>
 
 
