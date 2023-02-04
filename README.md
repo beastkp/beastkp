@@ -24,10 +24,10 @@
 
 # 📊 GitHub Stats:
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beastkp&show_icons=true&locale=en" alt="beastkp" style="background-color: black;"/></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beastkp&show_icons=true&locale=en" alt="beastkp" style="background-color: black;"/></p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beastkp&theme=dark&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beastkp&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=beastkp&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 
