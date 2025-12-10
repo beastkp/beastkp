@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Krish Panchal</h1>
-<h3 align="center">A passionate MERN Developer and AI Enthusiast.</h3>
+<h3 align="center">A passionate Software Developer and AI Enthusiast.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=beastkp&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Development and Image Processing <br>👯 I’m looking to collaborate on Web Development and openCV<br>🤝 Help in any domain is appreciated...<br>🌱 I’m currently learning Computer Vision and Image Processing<br>💬 Ask me about React, React-Native, Node and ROS<br>⚡ Fun fact - part time ROS learner!<br>
+🔭 I’m currently working on dotnet and Angular <br>👯 I’m looking to collaborate on Web Development and AI Projects<br>🤝 Help in any domain is appreciated...<br>🌱 I’m currently upgrading on cloud practices and writing content (Check out my Medium Page)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
